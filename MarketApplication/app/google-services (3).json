@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165128259140",
+    "project_id": "marketapp-bc588",
+    "storage_bucket": "marketapp-bc588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165128259140:android:d83f73d1e257f1ff041e11",
+        "android_client_info": {
+          "package_name": "com.zeki.marketapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165128259140-htpheqilnkferr30ff6uv1q58rv4j4vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4fHupXh3BSyOS1aT7teTqhuqeXTSV9wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165128259140-htpheqilnkferr30ff6uv1q58rv4j4vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
